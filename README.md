@@ -1,6 +1,6 @@
-# BUILDIVERSE
-Buildiverse is a semi open source voxel game. Curently, it is a work in progress.
-
+# VOXELGAMEPUBLIC
+VOXELGAMEPUBLIC is a semi open source voxel game. Curently, it is a work in progress.
+[Click here to open](https://fairies-feast.github.io/VoxelGamePublic/main)
 
 ## System requirements
 - Must be a new browser supporting Pointer Lock
